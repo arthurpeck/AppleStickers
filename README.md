@@ -4,5 +4,5 @@
 Apple iMessage stickers for the ultimate Apple fanboy experience in your Messages.
 
 
-## How does it work?
+#### How does it work?
 Download this repo to your Mac, use Xcode to put this iMessage sticker app on your iPhone or iPad!
