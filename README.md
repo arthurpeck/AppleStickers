@@ -1,4 +1,5 @@
-![alt text](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwjI6eyj6vTeAhWDJlAKHe6gCioQjRx6BAgBEAU&url=https%3A%2F%2F9to5mac.com%2F2018%2F10%2F18%2Fapple-october-event-ipad-pro-mac%2F&psig=AOvVaw0wplYf_4Rbr2tLO-gYP_va&ust=1543416937440508)
+![alt text](https://i2.wp.com/9to5mac.com/wp-content/uploads/sites/6/2018/10/apple-october-event.png?resize=2500%2C0&quality=82&strip=all&ssl=1)
+
 # AppleStickers
 Apple iMessage stickers for the ultimate Apple fanboy experience in your Messages.
 
